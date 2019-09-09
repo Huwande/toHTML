@@ -1,5 +1,7 @@
 package com.huwande.common.utils;
-
+/**
+ * 测试
+ */
 import static org.junit.Assert.*;
 
 import org.junit.Test;
